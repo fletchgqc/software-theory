@@ -1,0 +1,7 @@
+= Software Development Theory
+
+This is a place where I might record my thoughts on software development.
+
+For now, the only article is link:super-developer.adoc[What's a Super Developer?]
+
+John Fletcher
